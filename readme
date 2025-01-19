@@ -1,0 +1,30 @@
+# Unit Converter App
+
+This is a simple unit converter app built in Kotlin that allows users to convert between the following units:
+
+- Centimeters (cm)
+- Meters (m)
+- Millimeters (mm)
+- Feet (ft)
+
+## Features
+
+- Convert between Centimeters, Meters, Millimeters, and Feet.
+- Instant conversion results.
+- Simple and easy-to-use interface.
+
+## How to Use
+
+1. Select the unit you want to convert from.
+2. Enter the value you want to convert.
+3. Choose the target unit.
+4. See the result instantly.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Divy005/unit-converter-app.git
+
+Images//
+1
